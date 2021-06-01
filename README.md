@@ -1,6 +1,6 @@
 ### Hi there 👋s
 - 🏢 `C#`, `WPF`, `.NET 5`, `EF Core`, `Postgres`
-- 🏠 `F#`, `Raspberry PI`
+- 🏠 `F#`, `Raspberry PI`, `Blazor`
 🚲 
 ⌨
 🍺
