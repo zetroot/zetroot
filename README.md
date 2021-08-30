@@ -5,4 +5,8 @@
 ⌨
 🍺
 
-![zetroot's GitHub stats](https://github-readme-stats.vercel.app/api?username=zetroot&show_icons=true&theme=cobalt&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zetroot&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+![zetroot's GitHub stats](https://github-readme-stats.vercel.app/api?username=zetroot&show_icons=true&theme=cobalt&count_private=true) 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zetroot&theme=tokyonight)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zetroot&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
