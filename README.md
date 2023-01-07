@@ -1,5 +1,5 @@
 ### Hi there 👋s
-- 🏢 `C#`, `.NET 5`, `EF Core`, `ASP.NET Core`
+- 🏢 `C#`, `.NET 5/6/7`, `EF Core`, `ASP.NET Core`
 - 🏠 `F#`, `Raspberry PI`, `Blazor`, `Postgres`
 🚲 
 ⌨
