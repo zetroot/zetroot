@@ -1,9 +1,11 @@
 ### Hi there 👋s
-- 🏢 `C#`, `.NET 5/6/7`, `EF Core`, `ASP.NET Core`
+- 🏢 `C#`, `.NET 5/6/7`, `EF Core`, `ASP.NET Core`, `RabbitMQ`, `Redis`, `MS SQL`
 - 🏠 `F#`, `Raspberry PI`, `Blazor`, `Postgres`
 🚲 
 ⌨
 🍺
+
+[Blog](https://zetroot.lol)
 
 ![zetroot's GitHub stats](https://github-readme-stats.vercel.app/api?username=zetroot&show_icons=true&theme=cobalt&count_private=true) 
 
